@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brad SSCI Writing"
+  short_description: "Author-led SSCI writing with clear logic and verified claims"
+  default_prompt: "Use $brad-ssci-writing to revise this passage with clear sentence connections, concise wording, and minimal changes to my meaning."
