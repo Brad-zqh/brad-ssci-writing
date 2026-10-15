@@ -32,6 +32,8 @@ Preserve the reviewer's original comments, including references to the earlier m
 
 The opening overview should normally fit one or two natural paragraphs. First/Second/Third can organize the main changes within those paragraphs. Summarize the reviewer concerns and the actual response across both writing and substantive research:
 
+**Overview sequence:** acknowledge the revision context → group the reviewers' main concerns → summarize the corresponding conceptual, empirical, and discussion changes in a logical order → direct the reader to the point-by-point replies. A condensed overview must still preserve all major revision categories relevant to this resubmission.
+
 - Introduction, research gaps, and literature synthesis.
 - Conceptual foundations and the interpretation of the framework.
 - Revised temporal or spatial scope and measurement, when actually changed.
@@ -42,11 +44,15 @@ Select the categories relevant to the revision. Do not mechanically mention ever
 
 For each comment, address the specific concern, identify the actual change or justified interpretation, and give a verified section, figure, table, or supplementary location. Similar comments may need related explanations, but do not paste irrelevant boilerplate or inflate a scenario into implemented policy.
 
+**Individual-reply sequence:** identify the substantive concern → explain how the new writing or analysis addresses it → state the resulting clarification or new evidence → give the verified location. If a real new experiment addresses the concern, say so explicitly rather than describing it only as a rewritten paragraph.
+
 Distinguish an intended change from a completed one. Never invent page numbers or claim a whole-manuscript rewrite unless the comparison supports it.
 
 ## Cover letter
 
 Explain the submission or resubmission context, the manuscript's question and fit, and the major conceptual and empirical improvements. Keep the overview compact and ordered. In Brad's preferred revision cover letter, omit detailed results and percentages unless explicitly requested.
+
+**Sequence:** submission/resubmission context → question and journal relevance → one or two compact paragraphs covering the main changes → courteous request for consideration. Align the revision categories with the response letter while keeping the cover letter at overview level; do not import its comment-by-comment detail or results catalog.
 
 Ensure the title, journal, previous manuscript identifier, editor correspondence, and author details are accurate and current. Do not invent an invitation, promise of acceptance, or editor approval.
 

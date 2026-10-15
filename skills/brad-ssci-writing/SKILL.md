@@ -1,6 +1,6 @@
 ---
 name: brad-ssci-writing
-description: "Revise and draft empirical social-science manuscripts in Brad's author-led SSCI style: connected paragraphs, concise concrete English, concept-first frameworks, evidence-matched citations, and coordinated revision letters. Use for academic polishing, author comments, conceptual frameworks, discussions, and submission-package consistency; figure guidance is optional. 中文触发：论文润色、段落衔接、概念框架、理论贡献、实践启示、审稿回复、投稿文件核对。"
+description: "Revise and draft empirical social-science manuscripts in Brad's author-led SSCI style, with section-specific argument sequences, connected paragraphs, concept-first frameworks, evidence-matched citations, and coordinated revision letters. Use for abstracts, introductions, literature reviews, conceptual frameworks, methods, results, discussions, conclusions, author comments, and submission checks; figure guidance is optional. 中文触发：章节写作逻辑、论文润色、段落衔接、概念框架、理论贡献、实践启示、审稿回复。"
 ---
 
 # Brad SSCI Writing
@@ -19,7 +19,7 @@ When a reference below is needed, read that reference fully; do not load every m
 | Task | Read |
 | --- | --- |
 | Sentence links, paragraph development, concision, voice | [Paragraph logic and language](references/paragraph-logic.md) |
-| Abstract, introduction, literature review, conceptual framework, discussion | [Section roles](references/section-roles.md) |
+| Any identified manuscript section, including a paragraph edited within that section | [Section argument contracts](references/section-roles.md) |
 | New, changed, doubtful, or audited claims and citations | [Evidence and integrity](references/evidence-integrity.md) |
 | Author markup, Word edits, response letters, cover letters, final checks | [Revision and submission](references/revision-submission.md) |
 | Framework diagrams, result figures, tables, captions, editable sources | [Figures and tables](references/figures-tables.md) |
@@ -34,6 +34,14 @@ When a reference below is needed, read that reference fully; do not load every m
 5. **Match the authorization.** Editing text is not permission to update all submission files, alter a Zotero library or style, upload a repository, delete backups, or contact collaborators. Do the requested synchronization when authorized; ask before a material expansion.
 
 ## The house writing standard
+
+### Apply the chapter's argument contract first
+
+For section-level writing or revision, read [Section argument contracts](references/section-roles.md) and use the relevant section's **ordered moves, paragraph logic, exit condition, and content exclusions** before polishing individual sentences. For a local paragraph edit, use that contract to keep the paragraph in its proper role; do not restructure unrelated sections.
+
+Keep a private map of the research question → gap → objective → analysis/result → discussion claim. Preserve the accepted order across sections. Do not show a planning worksheet when the author requests only revised prose, or turn this alignment check into an unrequested full-paper audit.
+
+Treat Brad's established section logic as the default, not as optional generic advice. A new author instruction or a verified journal requirement can override it. Older project writing cards are evidence of preferences, not permission to restore superseded subsection numbers, fixed paragraph counts, or obsolete methodological choices.
 
 ### Connected rather than connector-heavy
 
@@ -65,9 +73,9 @@ Practical implications should usually give one main stakeholder per paragraph: t
 
 ## A short working loop
 
-1. Identify the requested scope, section role, author choices, and facts that must stay unchanged.
-2. Repair the argument locally: resolve ambiguity, supply the necessary bridge, and remove duplication.
-3. Check that the revision still says the same thing, that transitions express a real relationship, and that citations still attach to their supported claims.
+1. Identify the requested scope, relevant section contract, accepted author outline, and facts that must stay unchanged.
+2. Check the chapter's argument sequence and the paragraph's job within it; repair missing steps locally before polishing wording.
+3. Check that the revision still says the same thing, connects to its neighbors, respects the section's content boundaries, and keeps citations attached to supported claims.
 4. Return only the requested deliverable. For file edits, verify the relevant fields, layout, and cross-file references before claiming completion. Separate verified results from unresolved items.
 
 If the author excludes previously discussed issues from a new check, respect that narrowed scope and make the conclusion scope-specific. Excluding an issue does not mean it has been resolved.
