@@ -54,3 +54,9 @@ Reviewer-directed process language belongs in a response letter, not in the manu
 Use the language requested for the deliverable. Chinese discussion does not authorize adding Chinese text to an English submission. If bilingual pairing is requested, preserve paragraph alignment and technical meaning. If the author requests only revised English, return only that passage.
 
 Explain substantive concerns outside the manuscript. Do not add an internal audit note, missing-source warning, or account of editing decisions to the publication text.
+
+## Apply a local correction without losing the surrounding argument
+
+Before returning a revised passage, read its opening and ending against the neighboring paragraph when that context is available. Check pronoun referents, the scope of “these,” whether a contrast was actually established, and whether a reordered citation still supports the same proposition.
+
+For recurring specific complaints, use [Micro-editing decisions](micro-editing.md): repairing a suspended “while” clause, compressing a duplicated purpose, unpacking an opaque opportunity label, reducing repeated criteria, preserving accepted signposts, and choosing the source-attribution voice the author actually requested. Do not mistake a shorter standalone sentence for a better-connected paragraph.

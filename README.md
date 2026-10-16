@@ -42,6 +42,14 @@ An author-led writing skill for empirical social-science manuscripts: clear para
 
 这些是作者偏好的论证顺序，不是统一段数或强制句型。最新的明确要求和已接受结构优先；只有三个目标时，不为凑模板制造第四项发现。详见 [章节论证规则](skills/brad-ssci-writing/references/section-roles.md)。
 
+### 细节如何落实
+
+- [22 项微观编辑决策](skills/brad-ssci-writing/references/micro-editing.md)：针对句间跳跃、字数压缩、therefore 重复、while 悬空、条件反复罗列、术语不清、地方标签、引用重复、数据来源主语和作者已认可表达，分别规定怎样改、不能改成什么。
+- [16 项投稿细节检查](skills/brad-ssci-writing/references/submission-detail-checks.md)：区分同类段落字体与数学字体、英文弯引号与字体回退、真实重复与嵌套引用域、作者顺序与 CRediT、旧稿定位与新稿定位、实际上传文件与版本文件。
+- 引文指南补充网页作者与年份、同 DOI 的作者标签、APA/CSL 元数据修复、结果版本选择及 LLM 图的矩阵和配置追溯。
+- 图表指南补充长图注内容分流、符号与区间核对、PPTX 真正可编辑、保留原代码和图形设计更新数值。
+- [情境校准案例](skills/brad-ssci-writing/references/examples.md) 说明在具体请求下应保留什么、应修改什么、何时不能自行发挥；工具测试不等同于写作质量认证。
+
 ### 调用示例
 
 ```text

@@ -19,9 +19,11 @@ When a reference below is needed, read that reference fully; do not load every m
 | Task | Read |
 | --- | --- |
 | Sentence links, paragraph development, concision, voice | [Paragraph logic and language](references/paragraph-logic.md) |
+| Specific complaints about abruptness, repetition, grammar, vague labels, citation rhythm, or over-polishing | [Micro-editing decisions](references/micro-editing.md) |
 | Any identified manuscript section, including a paragraph edited within that section | [Section argument contracts](references/section-roles.md) |
 | New, changed, doubtful, or audited claims and citations | [Evidence and integrity](references/evidence-integrity.md) |
 | Author markup, Word edits, response letters, cover letters, final checks | [Revision and submission](references/revision-submission.md) |
+| Detailed submission, typography, authorship, numbering, and version checks | [Submission detail checks](references/submission-detail-checks.md) |
 | Framework diagrams, result figures, tables, captions, editable sources | [Figures and tables](references/figures-tables.md) |
 | Calibrating the preferred prose using self-contained examples | [Synthetic examples](references/examples.md) |
 
@@ -32,6 +34,12 @@ When a reference below is needed, read that reference fully; do not load every m
 3. **Never invent support.** A real citation is not automatically support for the sentence beside it. Do not fabricate references, causal explanations, statistical results, parameter provenance, or completed checks.
 4. **Do not conceal uncertainty.** Non-defensive writing removes reviewer-directed rhetoric and repetitive disclaimers; it does not remove necessary methodological boundaries, sources, limitations, or reproducibility information.
 5. **Match the authorization.** Editing text is not permission to update all submission files, alter a Zotero library or style, upload a repository, delete backups, or contact collaborators. Do the requested synchronization when authorized; ask before a material expansion.
+
+## Use the author's correction at its actual granularity
+
+Do not answer a specific complaint with a generic promise to improve clarity. If a sentence is abrupt, identify the missing relation; if it is repetitive, identify which claim is repeated; if a concept is unclear, identify which meaning or perspective is missing. Use the relevant decision in [Micro-editing decisions](references/micro-editing.md), not a global rewrite.
+
+Privately distinguish **direct wording/format repairs**, **authorized dependent synchronization**, and **substantive decisions requiring communication**. Preserve accepted choices and the smallest sufficient edit. The detailed rules are not a requirement to lengthen every passage or run every audit; apply only the checks needed by the requested scope.
 
 ## The house writing standard
 
@@ -88,4 +96,4 @@ For longer plain-text or Markdown drafts, `scripts/review_prose.py` can identify
 python scripts/review_prose.py draft.txt --json
 ```
 
-Treat every finding as a prompt for contextual review. Do not add citations, delete caveats, or replace accepted author wording just to clear a heuristic warning. The script does not read Word files; use an appropriate document reader for Word fields, comments, equations, and layout.
+Treat every finding as a prompt for contextual review. Do not add citations, delete caveats, or replace accepted author wording just to clear a heuristic warning. The script does not read Word files; use an appropriate document reader for Word fields, comments, equations, and layout. Passing tool or package tests establishes their limited tested behavior, not compliance with all writing preferences. Use the [scenario calibration cases](references/examples.md) to review editorial decisions in context.

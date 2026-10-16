@@ -100,6 +100,8 @@ Do not pretend each dimension directly measures both sides. Explain its actual r
 
 **Exit check:** readers understand what the constructs mean and why the perspectives belong together before learning how they are computed. The figure and concept table should reinforce this explanation rather than silently replacing it with a pipeline.
 
+A final framework subsection may briefly position this study's conceptual perspective. This does not license a second research-aim section or the operational pipeline inside the review. Conceptual frequency of use and a particular frequency-weighting algorithm must remain distinct.
+
 ## 5. Methods
 
 **Chapter sequence:** setting and analytical value → research design/data sources → construct operationalization → empirical analyses → validation/sensitivity and, when relevant, planning-scenario design. Preserve an accepted arrangement that groups these functions differently.
@@ -220,3 +222,5 @@ Before returning the requested passage, check privately:
 6. Can repeated material be removed without deleting the reason the next claim follows?
 
 Do not show the worksheet for a text-only request or claim a whole-paper audit when only one passage was revised. For revision-letter and cover-letter argument sequences, read [Revision and submission](revision-submission.md).
+
+For sentence-level repairs and concrete author complaints, use [Micro-editing decisions](micro-editing.md). For field, font, caption, numbering, and file-version execution, use [Submission detail checks](submission-detail-checks.md). A correct chapter outline does not establish that those local decisions have been handled correctly.

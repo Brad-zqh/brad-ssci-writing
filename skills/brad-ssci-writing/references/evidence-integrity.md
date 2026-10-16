@@ -62,3 +62,25 @@ Choose wording that accurately names the available evidence, not a repeated disc
 Separate **verified**, **not verified**, and **requires an author decision**. Never claim to have opened a source, refreshed Zotero, inspected every page, run a model, or checked a matrix unless that operation was actually completed.
 
 Respect a narrowed request to ignore earlier issues during a particular comparison. State what the new check establishes; do not imply the excluded evidence issues were fixed.
+
+## Metadata and attribution details
+
+Use the source's actual author/byline and publication year. A government host is not automatically the named author, and a retrieval year or current website footer is not automatically the publication year. Keep publication, revision, online-first, and access dates distinct where relevant. A changed web page may require checking the actual version used.
+
+Two author labels for the same DOI can reflect duplicate items, a group-author convention, or a stale citation cache. Inspect the actual item and authoritative record before deciding. Correct the intended managed item and refresh affected fields when authorized; do not merely change one visible occurrence.
+
+If full text or a precise supporting passage cannot be obtained, report that specific check as incomplete. It is not proof that the source is fictitious, and a resolving DOI is not proof that the detailed claim is supported. Do not replace an uncertain source with another merely plausible citation.
+
+## Citation-style repairs
+
+For an APA-style display problem, inspect the rendered unwanted text, item metadata, active style identifier, and relevant CSL call. Unwanted citation counts or archive text can arise from metadata rather than repeated citation fields. Changing a macro definition without checking its invocations may leave an invalid style.
+
+Validate CSL/XML and test a small relevant bibliography after an authorized style change. Avoid invalid nested XML comments, accidental changes to other item types, and indiscriminate deletion of legitimate archival-source information. A request to repair one document does not authorize replacing every installed APA variant. A user may explicitly authorize that broader override; keep a recoverable copy and verify the actual scope if doing so.
+
+## Linked result versions and graph inputs
+
+Before replacing a conflicting percentage, establish its analysis run, denominator, geography, time coverage, filters, weights, and threshold conditions. Matching the current manuscript's main analysis takes priority over choosing the newest timestamp. If it changes a substantive conclusion or requires rerunning the experiment, communicate that before broad synchronization.
+
+For LLM comparison figures, trace the displayed matrix to the input file, model identifier/version, prompts/configuration, sample, repeated runs, and statistic. Check labels and diagonals against that provenance. A nearby Python script establishes a possible workflow, not proof that its defaults generated the current figure.
+
+When synchronizing is authorized, inspect every dependency actually affected, including the manuscript, SI, figure values, tables, captions, highlights, letters, and an authorized repository. Keep existing plotting code and styling when instructed; record a necessary change rather than silently redrawing the figure.

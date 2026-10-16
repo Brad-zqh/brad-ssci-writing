@@ -54,3 +54,17 @@ Check repeated headers, row splits, single-row page fragments, and captions sepa
 Inspect the rendered figure and the figure as placed in the manuscript; a good standalone image can become unreadable after resizing. Check relevant pages after replacing any figure or changing a caption.
 
 Retain current figure exports, editable sources, and the code/data needed for the requested reproducibility scope. Do not create a stack of historical ZIPs automatically or delete older assets without explicit authorization. Publish only the material approved for public sharing, with no embedded credentials, confidential data, reviewer identities, or unpublished manuscript content.
+
+## Title, legend, and editable-source details
+
+Name the relationship shown, not a more ambitious theory. A diagram combining two evidence perspectives should not be named as if it estimates their equilibrium. Avoid filler such as “of this study” when the subject is already clear, while preserving a title specifically chosen by the author.
+
+Check whether construct names, indicator names, dataset labels, and workflow steps occupy distinct visual levels. Match their spelling, capitalization, order, and meaning with the text and concept table. A concept figure should not gain a weighting pipeline simply because a methods diagram exists elsewhere.
+
+For a long caption, classify each sentence before moving it: figure identity, panel reading, symbol/uncertainty definitions, common method, or result interpretation. Move only the appropriate method or interpretation into the text and retain enough legend information to read the figure. Verify new locations and affected replies afterward.
+
+Check reference-group markers, direction of differences, percentage versus percentage-point units, interval level, significance notation, and the scope of any multiple-comparison adjustment against the actual outputs. Do not invent a statistical convention to complete an incomplete legend.
+
+If providing a `ppt-framework` package, use descriptive current filenames and map each source to its manuscript figure. Text, boxes, and connectors intended to be editable must remain editable. Embedded photos can remain raster where appropriate; do not mislabel a single flattened screenshot as an editable reconstruction.
+
+For an update-only request, preserve panel arrangement, color mappings, typography, scales where still applicable, and the generating code. Inspect whether new values or longer labels require a local range or spacing repair. Do not silently beautify or regenerate the whole figure in a different style.
